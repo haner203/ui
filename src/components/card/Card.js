@@ -5,7 +5,7 @@ const Card = ({ cardImage }) => {
   return (
     <Box>
       <Link
-        href="http://localhost:3000/details"
+        href="./details"
         sx={{ textDecoration: "none" }}
       >
         {" "}
